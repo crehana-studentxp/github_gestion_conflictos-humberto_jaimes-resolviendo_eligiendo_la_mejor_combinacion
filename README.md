@@ -1,1 +1,1 @@
-# Clase 15 - Resolviendo conflictos: Eligiendo la mejor opción
+# Clase 16 - Resolviendo conflictos: Eligiendo la mejor combinación
